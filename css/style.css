@@ -73,3 +73,36 @@ header {
     padding-left: 0.5rem;
     margin: 2rem 0;
 }
+
+section {
+    padding: 60px 0;
+}
+
+#footer {
+    background: #000 !important;
+    margin-top: 2rem;
+}
+#footer a {
+    color: #ffffff;
+    text-decoration: none !important;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
+.nlinks {
+    margin-top: 1rem;
+}
+
+.nlinks a{
+    color: rgb(0,0,0,.5) !important;
+}
+
+.nlinks a:hover{
+    color: rgb(0,0,0) !important;
+}
+
+.navbar {
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px #999;
+}
