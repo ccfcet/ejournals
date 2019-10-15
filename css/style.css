@@ -1,9 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
-
-body {
-    font-family: 'Roboto', sans-serif;
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+html {
+    scroll-behavior: smooth;
 }
-.wrapper > header {
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+header {
     height: 15vh;
     margin-bottom: 4rem;
 }
@@ -53,4 +55,21 @@ body {
 @-webkit-keyframes slide-out {
     0% { -webkit-transform: translateX(0%); }
     100% { -webkit-transform: translateX(-100%); }
+}
+
+.navbar {
+    height: 20vh;
+}
+
+.nav-link {
+    font-size: 1.4rem;
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
+}
+
+.section-header {
+    font-size: 3rem;
+    font-weight: 700;
+    padding-left: 0.5rem;
+    margin: 2rem 0;
 }

@@ -1,0 +1,6 @@
+Add EBooks(DONE)
+Add Core, Mit Open CourseWare and Stanford
+Add Open Access Content
+Make Navbar sticky scrollable
+Add Flex to Card Body
+Add a Footer
