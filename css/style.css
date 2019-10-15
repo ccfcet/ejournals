@@ -106,3 +106,26 @@ section {
     -moz-box-shadow: 0 8px 6px -6px #999;
     box-shadow: 0 8px 6px -6px #999;
 }
+
+#navbar {
+    transition: 0.4s;
+}
+
+.navbar-move {
+    font-size: 1rem !important;
+    height: 10vh;
+}
+
+.navbar-move h3 {
+    font-size: 1.5rem;
+}
+
+.navbar-move .slogan {
+    display: none;
+}
+
+.navbar-move img {
+    transform: scale(0.5, 0.5);
+    -ms-transform: scale(0.5, 0.5);
+    -webkit-transform: scale(0.5, 0.5);
+}
