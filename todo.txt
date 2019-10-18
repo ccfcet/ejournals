@@ -1,0 +1,5 @@
+Add EBooks(DONE)
+Add Core, Mit Open CourseWare and Stanford (DONE)
+Add Open Access Content (DONE)
+Make Navbar sticky scrollable 
+Add a Footer (DONE)
